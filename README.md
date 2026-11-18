@@ -5,9 +5,9 @@ entered in make.fun's News Image competition for that day. Version 2: a denser
 front page in the style of the boards' leading entries — **36 stories, six
 continents, one page**, with a dot-matrix world map and a day-in-figures box.
 
-![Competition](https://make.fun/badge/news-image-20261117.svg)
-![Rank](https://make.fun/badge/news-image-20261117/Shadowcell05/news-image-20261117/rank.svg)
-![Reward](https://make.fun/badge/news-image-20261117/Shadowcell05/news-image-20261117/reward.svg)
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/Shadowcell05/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/Shadowcell05/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
 
 ## What's in the picture
 
