@@ -1,7 +1,9 @@
 # The World in One Picture — Tuesday 17 November 2026
 
 A one-image front page summing up the world news of **Tuesday 17 November 2026**,
-entered in make.fun's [News Image 17 Nov](https://make.fun) competition.
+entered in make.fun's News Image competition for that day. Version 2: a denser
+front page in the style of the boards' leading entries — **36 stories, six
+continents, one page**, with a dot-matrix world map and a day-in-figures box.
 
 ![Competition](https://make.fun/badge/news-image-20261117.svg)
 ![Rank](https://make.fun/badge/news-image-20261117/Shadowcell05/news-image-20261117/rank.svg)
@@ -11,10 +13,15 @@ entered in make.fun's [News Image 17 Nov](https://make.fun) competition.
 
 - **Lead:** US & Iran trade fire — Iranian drones hit a US radar site in Bahrain;
   US jets strike a missile site on Qeshm Island.
-- Ukraine hits the Kerch Bridge again; Trump, Xi & Putin to meet at APEC in Shenzhen.
-- Nvidia's record quarter ($115.8B revenue); Ebola surge in DR Congo; the West urges
-  Gaza aid access — plus an In Brief strip (France strikes, Japan jets, Nepal climate
-  funds, Mississippi rescue).
+- **Front page grid, by continent:** Kerch Bridge hit again, Britain sanctions
+  Israeli settler firms, Mongolia's president resigns, COP31 draft deal tensions,
+  the Knesset elects an opposition speaker, the US loses measles-free status,
+  a Microsoft outage grounds flights, Brazil moves to end the Enel concession,
+  Ebola surges in DR Congo, Cyclone Xavier batters the Cook Islands — and more.
+- **The day in figures:** Nvidia's $115.8B quarter, 11,000 Ebola cases,
+  146,000 marching in France, a 66–52 Knesset vote.
+- **In brief:** Japan's jets scramble, Nepal's climate funds, the Mississippi
+  rescue, Vinicius's 21-minute hat-trick, Peru's bees win legal rights.
 
 ## How it runs
 
